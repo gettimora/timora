@@ -32,5 +32,5 @@ requirements for branching, commit hygiene, and review checklists.
 ## Getting in Touch
 
 If you have questions before formal contribution channels open, please reach out
-via [support@example.com](mailto:support@example.com) and we will do our best to
+via [support@timsexperiments.foo](mailto:support@timsexperiments.foo) and we will do our best to
 respond as soon as possible.
