@@ -12,7 +12,7 @@ If you believe you have found a security vulnerability, please contact us via
 one of the following channels:
 
 * Email: [security@timsexperiments.foo](mailto:security@timsexperiments.foo)
-* Disclosure portal: https://security.example.com/report
+* Disclosure portal: [coming soon](https://security.timsexperiments.com/report)
 
 When reporting, please include as much detail as possible about the issue,
 including steps to reproduce, potential impact, and any recommended mitigation.
