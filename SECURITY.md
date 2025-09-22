@@ -1,26 +1,37 @@
 # Security Policy
 
-## Supported Versions
-
-The Scheduling Service is not yet released. Security updates and disclosures
-will be coordinated as part of the initial public launch. Until then, any
-pre-release code should be considered experimental.
+## Supported Versions and Environments
+We actively support the latest stable release of the scheduling service and the
+associated production environment. Critical security fixes will be backported
+to the most recent minor release. Older versions and non-production deployments
+(e.g., custom forks or unsupported operating systems) are not covered by our
+security response commitments.
 
 ## Reporting a Vulnerability
+If you believe you have found a security vulnerability, please contact us via
+one of the following channels:
 
-Please report suspected security issues privately by emailing
-[security@example.com](mailto:security@example.com).
+* Email: [security@timsexperiments.foo](mailto:security@timsexperiments.foo)
+* Disclosure portal: [coming soon](https://security.timsexperiments.com/report)
 
-To help us triage and respond quickly, include:
+When reporting, please include as much detail as possible about the issue,
+including steps to reproduce, potential impact, and any recommended mitigation.
+We encourage researchers to follow responsible disclosure practices and to
+avoid publicly disclosing the issue until we have addressed it.
 
-* A description of the vulnerability and the potential impact.
-* Steps to reproduce the issue or proof-of-concept code, if available.
-* Any relevant logs, configuration details, or environment information.
+## Response Timelines
+We aim to acknowledge receipt of security reports within **2 business days**.
+We will provide an initial assessment and remediation plan within **7 business
+days**. Fixes for critical vulnerabilities will be prioritized and released as
+quickly as possible, with regular updates provided to the reporter throughout
+the process.
 
-We will acknowledge your report within five business days and coordinate a
-remediation timeline. Once the vulnerability is resolved, we will work with you
-on public disclosure, giving you credit if you would like it.
+## Safe Harbor and Bounty Program
+Good-faith security research that complies with this policy and applicable laws
+will not be pursued legally. While we currently do not operate a public bug
+bounty program, we may offer discretionary rewards for high-impact,
+responsibly-disclosed vulnerabilities.
 
-## Preferred Languages
-
-We can respond to reports in English.
+## Additional Information
+For general project details and policies, including our security policy
+reference, see the [project README](README.md).
