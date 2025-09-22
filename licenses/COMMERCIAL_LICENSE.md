@@ -169,7 +169,7 @@ of the AGPL.
 ```
 Licensing Team
 Scheduling Service, Inc.
-Email: sales@schedulingservice.example
+Email: sales@timsexperiments.foo
 Phone: +1 (415) 555-1234
 ```
 
