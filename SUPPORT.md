@@ -2,9 +2,9 @@
 
 The Scheduling Service team is preparing commercial support offerings.
 
-* **Sales and Partnerships:** Contact [sales@example.com](mailto:sales@example.com)
+* **Sales and Partnerships:** Contact [sales@timsexperiments.foo](mailto:sales@timsexperiments.foo)
   to discuss licensing, integrations, or strategic collaborations.
-* **General Inquiries:** Email [support@example.com](mailto:support@example.com)
+* **General Inquiries:** Email [support@timsexperiments.foo](mailto:support@timsexperiments.foo)
   for questions about the roadmap or availability.
 
 We appreciate your interest and will respond as soon as our support operations
