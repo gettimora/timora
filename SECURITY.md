@@ -11,7 +11,7 @@ security response commitments.
 If you believe you have found a security vulnerability, please contact us via
 one of the following channels:
 
-* Email: [security@example.com](mailto:security@example.com)
+* Email: [security@timsexperiments.foo](mailto:security@timsexperiments.foo)
 * Disclosure portal: https://security.example.com/report
 
 When reporting, please include as much detail as possible about the issue,
