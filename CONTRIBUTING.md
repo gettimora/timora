@@ -1,6 +1,6 @@
 # Contributing
 
-We are excited to collaborate with the community on the Scheduling Service! The
+We are excited to collaborate with the community on the Timora! The
 project is still in its early planning stages, so detailed contribution steps are
 coming soon. In the meantime, this document outlines how we expect to engage
 once development begins.
@@ -32,5 +32,5 @@ requirements for branching, commit hygiene, and review checklists.
 ## Getting in Touch
 
 If you have questions before formal contribution channels open, please reach out
-via [support@timsexperiments.foo](mailto:support@timsexperiments.foo) and we will do our best to
+via [support@gettimora.com](mailto:support@gettimora.com) and we will do our best to
 respond as soon as possible.
