@@ -1,13 +1,13 @@
-# Scheduling Service Commercial License Offering
+# Timora Commercial License Offering
 
-Scheduling Service distributes a **stock commercial license** by adopting the
+Timora distributes a **stock commercial license** by adopting the
 [PolyForm Commercial License 1.0.0](https://polyformproject.org/licenses/commercial/1.0.0/).
 Customers who need terms beyond the [AGPLv3 `LICENSE`](../LICENSE) included in
 this repository can use the PolyForm license as-is and rely on the schedule
 below for project-specific commercial details.
 
 The PolyForm license is a well-vetted template maintained by the PolyForm
-Project.  It already defines:
+Project. It already defines:
 
 - the grant of copyright and patent rights for commercial use,
 - restrictions on sublicensing, redistribution, and publication of the source,
@@ -16,7 +16,7 @@ Project.  It already defines:
 - compatibility with separate contractual commitments such as SLAs.
 
 For convenience, the full PolyForm Commercial License 1.0.0 text is reproduced
-verbatim below.  See the PolyForm Project website for authoritative copies and
+verbatim below. See the PolyForm Project website for authoritative copies and
 frequently asked questions.
 
 ---
@@ -118,7 +118,7 @@ permission complies with these terms.
 ## Commercial Schedule (Addendum to PolyForm Commercial License 1.0.0)
 
 The following schedule provides project-specific business details that sit
-alongside the PolyForm license.  These clauses do **not** modify the PolyForm
+alongside the PolyForm license. These clauses do **not** modify the PolyForm
 terms, but give customers the information they typically expect when opting out
 of the AGPL.
 
@@ -132,13 +132,13 @@ of the AGPL.
   PolyForm restrictions on redistribution but may be maintained internally by
   the licensee.
 - **Integration.** Compiled clients, SDKs, or connectors built on top of the
-  Scheduling Service may be distributed to the licensee's own customers so long
-  as the Scheduling Service source code itself is not provided.
+  Timora may be distributed to the licensee's own customers so long
+  as the Timora source code itself is not provided.
 
 ### Restrictions and Reporting
 
 - **No Public Distribution.** Source code redistribution is prohibited under
-  PolyForm.  Customers that need open distribution should instead rely on the
+  PolyForm. Customers that need open distribution should instead rely on the
   AGPLv3 license in `LICENSE`.
 - **Private Fork Reporting.** Licensees maintaining private forks must provide
   a quarterly written summary of substantive changes, deployment footprint, and
@@ -148,7 +148,7 @@ of the AGPL.
 
 ### Warranty, SLA, and Support
 
-- **Limited Warranty.** Scheduling Service warrants that paid releases will
+- **Limited Warranty.** Timora warrants that paid releases will
   conform to accompanying documentation for 30 days after delivery; remedies are
   limited to repair, replacement, or refund of paid fees.
 - **Support Response.** During an active subscription term, priority support
@@ -158,25 +158,24 @@ of the AGPL.
 ### Pricing and Ordering
 
 - **Commercial License Fee.** Pricing starts at USD $10,000 annually for up to
-  three production instances.  Volume, dedicated support, and bespoke SLA terms
+  three production instances. Volume, dedicated support, and bespoke SLA terms
   are available on request.
 - **Order Process.** To obtain the commercial license, contact the licensing
-  team (below) for a quote and order form.  Commercial rights take effect once
+  team (below) for a quote and order form. Commercial rights take effect once
   the order is accepted and payment is received.
 
 ### Contact Information
 
 ```
 Licensing Team
-Scheduling Service, Inc.
-Email: sales@timsexperiments.foo
+Timora, Inc.
+Email: sales@gettimora.com
 Phone: +1 (415) 555-1234
 ```
 
 ### Relationship to the AGPLv3 Offering
 
-The open source version remains available under the AGPLv3.  Customers who do
+The open source version remains available under the AGPLv3. Customers who do
 not need commercial terms may continue to rely on that license without charge.
 Commercial customers gain relief from the AGPLv3 copyleft obligations but remain
 bound by the PolyForm Commercial License 1.0.0 and this schedule.
-
